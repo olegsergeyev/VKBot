@@ -1,0 +1,9 @@
+file.jpg
+venv/
+.vscode/
+.idea/
+__pycache__/
+Pipfile
+Pipfile.lock
+uploaded
+vklink
